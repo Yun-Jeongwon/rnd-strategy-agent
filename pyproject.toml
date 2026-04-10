@@ -1,0 +1,22 @@
+[project]
+name = "rnd-strategy-agent"
+version = "0.1.0"
+description = "Agent-based R&D strategy analysis system for semiconductor technology trends and competitor intelligence"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain",
+    "langgraph",
+    "openai",
+    "pydantic",
+    "python-dotenv",
+    "faiss-cpu",
+    "pymupdf",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "ipykernel",
+    "pytest",
+    "ruff",
+]
