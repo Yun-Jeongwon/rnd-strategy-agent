@@ -1,3 +1,6 @@
+- WebSearch 부분 수정 필요
+- State 설계서에 맞춰 수정 필요
+
 # Subject: R&D Strategy Agent
 
 HBM4, PIM, CXL 관련 반도체 기술의 최신 웹·문서 근거를 수집하고 경쟁사 동향을 분석하여, R&D 의사결정에 활용할 수 있는 짧고 구조화된 전략 보고서를 생성하는 워크플로우입니다.
