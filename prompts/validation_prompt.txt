@@ -1,0 +1,31 @@
+아래 보고서 초안을 검토하시오.
+
+{draft_report}
+
+[검토 기준]
+1. 근거성: 핵심 주장에 출처/근거가 있는가
+2. 완결성: SUMMARY~REFERENCE 구조를 충족하는가
+3. 일관성: 기술 성숙도, 경쟁사 비교, 전략 방향이 서로 모순되지 않는가
+4. 실행 가능성: R&D 관점의 투자 우선순위/대응 전략이 있는가
+5. Retrieval 부족 여부: 특정 기술/경쟁사에 대한 근거 자체가 현저히 부족한가
+6. 분석 오류 여부: TRL 적용 누락, 기술 비교 누락, 경쟁사 커버리지 부족 등이 있는가
+7. 전략 부족 여부: 전략적 시사점이 추상적이거나 실행 가능하지 않은가
+
+[보고서 초안]
+{draft_report}
+
+반드시 아래 JSON 형식으로만 답하세요.
+
+{{
+  "pass": true,
+  "revision_points": [
+    "수정 필요사항 1",
+    "수정 필요사항 2"
+  ],
+  "retrieval_insufficient": false,
+  "evidence_insufficient": false,
+  "analysis_error": false,
+  "strategy_insufficient": false,
+  "missing_sections": [],
+  "hallucination_risk": false
+}}

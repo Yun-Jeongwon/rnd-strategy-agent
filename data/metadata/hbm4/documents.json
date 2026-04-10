@@ -1,0 +1,74 @@
+[
+  {
+    "doc_id": "hbm4_001",
+    "title": "SK하이닉스, ‘슈퍼컴퓨팅 2025’서 HBM4·차세대 스토리지 등 AI 메모리 라인업 공개",
+    "source": "SK hynix Newsroom",
+    "published_at": "2025-11-24",
+    "technology": "HBM4",
+    "document_type": "press_release",
+    "company": "SK hynix",
+    "raw_path": "data/raw/hbm4/hbm4_001.pdf",
+    "curated_path": "",
+    "notes": "SC 2025 전시에서 HBM4 12단, HBM3E, CXL 관련 차세대 AI 메모리 라인업을 소개한 공식 자료"
+  },
+  {
+    "doc_id": "hbm4_002",
+    "title": "삼성전자, 세계 최초 업계 최고 성능의 HBM4 양산 출하",
+    "source": "Samsung Newsroom",
+    "published_at": "2026-02-12",
+    "technology": "HBM4",
+    "document_type": "press_release",
+    "company": "Samsung",
+    "raw_path": "data/raw/hbm4/hbm4_002.pdf",
+    "curated_path": "",
+    "notes": "HBM4 양산 출하 공식 발표, 경쟁사 대비 기술 성숙도 및 상용화 기준 판단용"
+  },
+  {
+    "title": "반도체 기술 로드맵 2026",
+    "company": "The Institute of Semiconductor Engineers",
+    "source_type": "report",
+    "document_type": "roadmap",
+    "technology": ["HBM4", "PIM", "CXL"],
+    "published_date": "2025-12-24",
+    "language": "ko",
+    "reliability": "high",
+    "url": "https://www.theise.org/wp-content/uploads/2025/12/반도체기술로드맵2026.pdf"
+  },
+  {
+    "title": "How AI Growth Will Drive HBM Demand Beyond 2025: Shaping Product Evolution and Market Dynamics",
+    "company": "Conference Concepts, Inc.",
+    "source_type": "report",
+    "document_type": "conference_presentation",
+    "technology": ["HBM4"],
+    "published_date": "2025-08-05",
+    "language": "en",
+    "reliability": "high",
+    "author": "Ellie Wang",
+    "url": "https://files.futurememorystorage.com/proceedings/2025/20250805_BMKT-102-1_Ellie-Wang.pdf"
+  },
+  {
+    "title": "HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference",
+    "company": "academic",
+    "source_type": "paper",
+    "document_type": "preprint",
+    "technology": ["PIM", "HBM"],
+    "published_date": "2025-09-16",
+    "language": "en",
+    "reliability": "high",
+    "authors": [
+      "Cenlin Duan",
+      "Jianlei Yang",
+      "Rubing Yang",
+      "Yikun Wang",
+      "Yiou Wang",
+      "Lingkun Long",
+      "Yingjie Qi",
+      "Xiaolin He",
+      "Ao Zhou",
+      "Xueyan Wang",
+      "Weisheng Zhao"
+    ],
+    "url": "https://arxiv.org/pdf/2509.12993.pdf",
+    "arxiv_id": "2509.12993"
+  }
+]

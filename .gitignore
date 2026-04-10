@@ -17,8 +17,8 @@ venv/
 .idea/
 
 # Outputs
-outputs/logs/
-outputs/reports/
+outputs/*.json
+outputs/*.txt
 
 # Data
 data/processed/
